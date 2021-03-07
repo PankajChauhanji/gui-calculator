@@ -1,5 +1,4 @@
-# gui-calculator
-### Calculator App
+# Calculator App
 
 ## Language Used
 1. HTML5
@@ -7,15 +6,14 @@
 3. JAVASCRIPT ES6
 
 ## Functionalities of Calculator:
-# Arithematic Operations.
-. Addition
-. Subtraction
-. Multiplication
-. Divide
-. Modulous
-. Power
-
-# Other Functionality.
-. Clear Complete Screen
-. Clear last digit.
+### Arithematic Operations.
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Divide
+5. Modulous
+6. Power
+### Other Functionality.
+1. Clear Complete Screen
+2. Clear last digit.
 
